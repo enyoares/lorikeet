@@ -1,0 +1,11 @@
+{
+    "name": "lorikeet",
+    "version": "1.0.0",
+    "main": "main.js",
+    "dependencies": {
+        "async": "^3.2.0",
+        "commonjs": "0.0.1",
+        "osenv": "^0.1.5",
+        "requirejs": "^2.3.6"
+    }
+}
